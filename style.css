@@ -74,8 +74,7 @@ header .highlight {
 }
 
 
-
-/*boxes */
+/* boxes */
 #boxes {
 	margin-top: 20px;
 }
@@ -86,6 +85,9 @@ header .highlight {
 	width: 30%;
 	padding-right: 10px;
 }
+#boxes .box img{
+  width:90px;
+}
 
 footer {
 	padding: 20px;
@@ -94,4 +96,6 @@ footer {
 	background-color: #004990;
 	text-align: center;
 }
+
+
 
